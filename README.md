@@ -1,2 +1,0 @@
-# eclipseProjects
-Test
